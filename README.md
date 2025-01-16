@@ -1,2 +1,3 @@
 # LeetCode-Completed-Library
-Archive of my completed Leetcode, 
+Archive of my completed Leetcode solutions.
+
